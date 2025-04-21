@@ -59,7 +59,7 @@ This design is for educational and portfolio purposes. For commercial use, pleas
 
 ## 👤 Author
 
-- **Your Name** – [@yourusername](Nitasha)
+- **Your Name** – [@yourusername](natasha1425)
 - **LinkedIn** – [Your LinkedIn Profile](https://www.linkedin.com/in/nitashasapraa/)
 
 ---
